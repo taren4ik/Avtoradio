@@ -53,4 +53,4 @@ class RadioApp(App):  # главный класс
 
 
 if __name__ == '__main__':
-    RadioApp().run()  # запуск
+    RadioApp().run()
